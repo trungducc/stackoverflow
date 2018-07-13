@@ -1,7 +1,10 @@
-# Stack Overflow 🤪
+# BigTitleNavigationBar
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Sample of making NavigationBar's titleView larger than itself
 
-### *Each branch is related to an answer on Stack Overflow.*
+![][1]
+
+Related to [Make NavigationBar's titleView larger than itself][2]
+
+[1]: https://imgur.com/download/qM9eJ2J
+[2]: https://stackoverflow.com/questions/47121427/make-navigationbars-titleview-larger-than-itself/47122252#47122252

@@ -1,7 +1,7 @@
-# Stack Overflow 🤪
+# TouchingStatusBarEffect
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Replicate programmatically what a tap on the `UIStatusBar` does
 
-### *Each branch is related to an answer on Stack Overflow.*
+Related to [Can I replicate programmatically what a tap on the UIStatusBar does w/ UISearchController?][1]
+
+[1]: https://stackoverflow.com/questions/49597932/can-i-replicate-programmatically-what-a-tap-on-the-uistatusbar-does-w-uisearchc

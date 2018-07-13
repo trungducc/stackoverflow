@@ -1,7 +1,8 @@
-# Stack Overflow 🤪
+# CountdownLabel
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+![][1]
 
-### *Each branch is related to an answer on Stack Overflow.*
+Related to [Fixed width for an word (countdown timer 3:45) in UIlabel][2]
+
+[1]: https://media.giphy.com/media/1gdzrLrxZ7nTZSSCbY/giphy.gif
+[2]: https://stackoverflow.com/questions/49583232/fixe-width-for-an-wordcountdown-timer-345-in-uilabel

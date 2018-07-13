@@ -1,7 +1,5 @@
-# Stack Overflow 🤪
+# SwiftConstantFromObjectiveC
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Related to [iOS: How to transform a type in a string in the Constants.h?][1]
 
-### *Each branch is related to an answer on Stack Overflow.*
+[1]: https://stackoverflow.com/questions/49577399/ios-how-to-transform-a-type-in-a-string-in-the-constants-h/49578741?noredirect=1#comment86260455_49578741

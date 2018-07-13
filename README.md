@@ -1,7 +1,10 @@
-# Stack Overflow 🤪
+# Panel Presentation
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Handle presentation controller with scroll view and pan gesture
 
-### *Each branch is related to an answer on Stack Overflow.*
+![gif][1]
+
+Related to [Handling scroll views with (custom, interactive) view controller presentation and dismissal][2]
+
+[1]: https://media.giphy.com/media/BoIkW18emEy4P15QMg/giphy.gif
+[2]: https://stackoverflow.com/questions/50011682/handling-scroll-views-with-custom-interactive-view-controller-presentation-an

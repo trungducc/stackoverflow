@@ -1,7 +1,10 @@
-# Stack Overflow 🤪
+# CollectionViewOddsCell
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Sample using CustomCollectionViewLayout
 
-### *Each branch is related to an answer on Stack Overflow.*
+![][2]
+
+Related to [UICollectionView - Remove extra spacing][1]
+
+[1]: https://stackoverflow.com/questions/47495252/uicollectionview-remove-extra-spacing/47496282#47496282
+[2]: https://i.stack.imgur.com/E9XYi.png

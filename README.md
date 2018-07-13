@@ -1,7 +1,7 @@
-# Stack Overflow 🤪
+# UserAction
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Sample of logging every user interaction in IOS
 
-### *Each branch is related to an answer on Stack Overflow.*
+Related to [How can I log every user interaction in IOS][1]
+
+[1]: https://stackoverflow.com/questions/47238366/how-can-i-log-every-user-interaction-in-ios/47247813#47247813

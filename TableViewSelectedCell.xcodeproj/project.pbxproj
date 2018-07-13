@@ -1,0 +1,348 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		94380FA920F8BF7B00D1C422 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 94380FA820F8BF7B00D1C422 /* AppDelegate.m */; };
+		94380FAC20F8BF7B00D1C422 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 94380FAB20F8BF7B00D1C422 /* ViewController.m */; };
+		94380FAF20F8BF7B00D1C422 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94380FAD20F8BF7B00D1C422 /* Main.storyboard */; };
+		94380FB120F8BF7B00D1C422 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94380FB020F8BF7B00D1C422 /* Assets.xcassets */; };
+		94380FB420F8BF7B00D1C422 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94380FB220F8BF7B00D1C422 /* LaunchScreen.storyboard */; };
+		94380FB720F8BF7B00D1C422 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 94380FB620F8BF7B00D1C422 /* main.m */; };
+		94380FC020F8BF9100D1C422 /* SmartCalendarDayCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 94380FBE20F8BF9100D1C422 /* SmartCalendarDayCell.m */; };
+		94380FC120F8BF9100D1C422 /* SmartCalendarDayCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 94380FBF20F8BF9100D1C422 /* SmartCalendarDayCell.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		94380FA420F8BF7B00D1C422 /* TableViewSelectedCell.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TableViewSelectedCell.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		94380FA720F8BF7B00D1C422 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		94380FA820F8BF7B00D1C422 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		94380FAA20F8BF7B00D1C422 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		94380FAB20F8BF7B00D1C422 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		94380FAE20F8BF7B00D1C422 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		94380FB020F8BF7B00D1C422 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		94380FB320F8BF7B00D1C422 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		94380FB520F8BF7B00D1C422 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		94380FB620F8BF7B00D1C422 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		94380FBD20F8BF9100D1C422 /* SmartCalendarDayCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SmartCalendarDayCell.h; sourceTree = "<group>"; };
+		94380FBE20F8BF9100D1C422 /* SmartCalendarDayCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SmartCalendarDayCell.m; sourceTree = "<group>"; };
+		94380FBF20F8BF9100D1C422 /* SmartCalendarDayCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SmartCalendarDayCell.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		94380FA120F8BF7B00D1C422 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		94380F9B20F8BF7B00D1C422 = {
+			isa = PBXGroup;
+			children = (
+				94380FA620F8BF7B00D1C422 /* TableViewSelectedCell */,
+				94380FA520F8BF7B00D1C422 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		94380FA520F8BF7B00D1C422 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				94380FA420F8BF7B00D1C422 /* TableViewSelectedCell.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		94380FA620F8BF7B00D1C422 /* TableViewSelectedCell */ = {
+			isa = PBXGroup;
+			children = (
+				94380FA720F8BF7B00D1C422 /* AppDelegate.h */,
+				94380FA820F8BF7B00D1C422 /* AppDelegate.m */,
+				94380FAA20F8BF7B00D1C422 /* ViewController.h */,
+				94380FAB20F8BF7B00D1C422 /* ViewController.m */,
+				94380FBD20F8BF9100D1C422 /* SmartCalendarDayCell.h */,
+				94380FBE20F8BF9100D1C422 /* SmartCalendarDayCell.m */,
+				94380FBF20F8BF9100D1C422 /* SmartCalendarDayCell.xib */,
+				94380FAD20F8BF7B00D1C422 /* Main.storyboard */,
+				94380FB020F8BF7B00D1C422 /* Assets.xcassets */,
+				94380FB220F8BF7B00D1C422 /* LaunchScreen.storyboard */,
+				94380FB520F8BF7B00D1C422 /* Info.plist */,
+				94380FB620F8BF7B00D1C422 /* main.m */,
+			);
+			path = TableViewSelectedCell;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		94380FA320F8BF7B00D1C422 /* TableViewSelectedCell */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 94380FBA20F8BF7B00D1C422 /* Build configuration list for PBXNativeTarget "TableViewSelectedCell" */;
+			buildPhases = (
+				94380FA020F8BF7B00D1C422 /* Sources */,
+				94380FA120F8BF7B00D1C422 /* Frameworks */,
+				94380FA220F8BF7B00D1C422 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = TableViewSelectedCell;
+			productName = TableViewSelectedCell;
+			productReference = 94380FA420F8BF7B00D1C422 /* TableViewSelectedCell.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		94380F9C20F8BF7B00D1C422 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0940;
+				ORGANIZATIONNAME = "Trung Duc";
+				TargetAttributes = {
+					94380FA320F8BF7B00D1C422 = {
+						CreatedOnToolsVersion = 9.4.1;
+					};
+				};
+			};
+			buildConfigurationList = 94380F9F20F8BF7B00D1C422 /* Build configuration list for PBXProject "TableViewSelectedCell" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 94380F9B20F8BF7B00D1C422;
+			productRefGroup = 94380FA520F8BF7B00D1C422 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				94380FA320F8BF7B00D1C422 /* TableViewSelectedCell */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		94380FA220F8BF7B00D1C422 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94380FC120F8BF9100D1C422 /* SmartCalendarDayCell.xib in Resources */,
+				94380FB420F8BF7B00D1C422 /* LaunchScreen.storyboard in Resources */,
+				94380FB120F8BF7B00D1C422 /* Assets.xcassets in Resources */,
+				94380FAF20F8BF7B00D1C422 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		94380FA020F8BF7B00D1C422 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				94380FC020F8BF9100D1C422 /* SmartCalendarDayCell.m in Sources */,
+				94380FAC20F8BF7B00D1C422 /* ViewController.m in Sources */,
+				94380FB720F8BF7B00D1C422 /* main.m in Sources */,
+				94380FA920F8BF7B00D1C422 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		94380FAD20F8BF7B00D1C422 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				94380FAE20F8BF7B00D1C422 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		94380FB220F8BF7B00D1C422 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				94380FB320F8BF7B00D1C422 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		94380FB820F8BF7B00D1C422 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		94380FB920F8BF7B00D1C422 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		94380FBB20F8BF7B00D1C422 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TableViewSelectedCell/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.trungduc.TableViewSelectedCell;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		94380FBC20F8BF7B00D1C422 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = TableViewSelectedCell/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.trungduc.TableViewSelectedCell;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		94380F9F20F8BF7B00D1C422 /* Build configuration list for PBXProject "TableViewSelectedCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94380FB820F8BF7B00D1C422 /* Debug */,
+				94380FB920F8BF7B00D1C422 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		94380FBA20F8BF7B00D1C422 /* Build configuration list for PBXNativeTarget "TableViewSelectedCell" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				94380FBB20F8BF7B00D1C422 /* Debug */,
+				94380FBC20F8BF7B00D1C422 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 94380F9C20F8BF7B00D1C422 /* Project object */;
+}

@@ -1,7 +1,8 @@
-# Stack Overflow 🤪
+# IntegrateFBSDK
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Sample of integrating FBSDK with Swift
 
-### *Each branch is related to an answer on Stack Overflow.*
+Related to [Multiple inheritance from classes 'UIApplication' and 'FBSDKApplicationDelegate'
+][1]
+
+[1]: https://stackoverflow.com/questions/47239310/multiple-inheritance-from-classes-uiapplication-and-fbsdkapplicationdelegate/47343214#47343214

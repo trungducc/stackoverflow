@@ -1,7 +1,7 @@
-# Stack Overflow 🤪
+# WKWebViewDetectImageLoaded
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Detect when image is fully loaded.
 
-### *Each branch is related to an answer on Stack Overflow.*
+Related to [How to detect if an image in a html is fully loaded in WKWebView?][1]
+
+[1]: https://stackoverflow.com/questions/48073339/how-to-detect-if-an-image-in-a-html-is-fully-loaded-in-wkwebview/48275649#48275649

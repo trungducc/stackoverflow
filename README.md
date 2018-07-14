@@ -1,7 +1,14 @@
-# Stack Overflow 🤪
+# iCarousel+PullToRefresh/LoadMore
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+A simple example to implement [iCarousel][1] with "Pull to Refresh" & "Load More" features.
 
-### *Each branch is related to an answer on Stack Overflow.*
+| Pull to Refresh | Load More |
+| --- | --- |
+| ![][2] | ![][3] |
+
+Related to [iCarousel Pull to Refresh and Load More][4]
+
+[1]: https://github.com/nicklockwood/iCarousel
+[2]: https://media.giphy.com/media/37R9hFSNJksZbD5WYC/giphy.gif
+[3]: https://media.giphy.com/media/1imXf8QoPjfpEdVyaP/giphy.gif
+[4]: https://stackoverflow.com/questions/50153407/icarousel-pull-to-refresh-and-load-more

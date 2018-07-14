@@ -1,7 +1,8 @@
-# Stack Overflow 🤪
+# AnimateLabelTextColor
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+![][1]
 
-### *Each branch is related to an answer on Stack Overflow.*
+Reletad to [How can I change UITableView label textColor twice in animations?][2]
+
+[1]: https://media.giphy.com/media/1NWhzmRok90BGIP7d0/giphy.gif
+[2]: https://stackoverflow.com/questions/50360745/how-can-i-change-uitableview-label-textcolor-twice-in-animations/

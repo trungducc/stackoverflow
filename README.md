@@ -1,7 +1,5 @@
-# Stack Overflow 🤪
+# WKWebViewHandleMessage
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+Related to [Trying to get information back from Javascript in WKWebView (using KINWebBrowser)][1]
 
-### *Each branch is related to an answer on Stack Overflow.*
+[1]: https://stackoverflow.com/questions/50125387/trying-to-get-information-back-from-javascript-in-wkwebview-using-kinwebbrowser?noredirect=1#comment87272802_50125387

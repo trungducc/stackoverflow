@@ -1,0 +1,6 @@
+framework module KINWebBrowser {
+  umbrella header "KINWebBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,7 +1,8 @@
-# Stack Overflow 🤪
+# FacebookReactionBar
 
-<a href="https://stackoverflow.com/users/8798729/trungduc">
-<img src="https://stackoverflow.com/users/flair/8798729.png" width="208" height="58" alt="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for trungduc at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
+![i][1]
 
-### *Each branch is related to an answer on Stack Overflow.*
+Related to [IOS - How to create Facebook reaction bar with blur background?][2]
+
+[1]: https://i.stack.imgur.com/o2BuYl.png
+[2]: https://stackoverflow.com/questions/49513678/transparent-uiimageview-border/49571053#49571053

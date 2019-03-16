@@ -13,6 +13,7 @@
 		2EB930AF223B6717000D856B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2EB930AE223B6717000D856B /* Assets.xcassets */; };
 		2EB930B2223B6717000D856B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EB930B0223B6717000D856B /* LaunchScreen.storyboard */; };
 		2EB930B5223B6717000D856B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2EB930B4223B6717000D856B /* main.m */; };
+		94D01453223CACB80087D960 /* RestorableImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 94D01452223CACB80087D960 /* RestorableImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		2EB930B1223B6717000D856B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2EB930B3223B6717000D856B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2EB930B4223B6717000D856B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		94D01451223CACB80087D960 /* RestorableImageView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RestorableImageView.h; sourceTree = "<group>"; };
+		94D01452223CACB80087D960 /* RestorableImageView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RestorableImageView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				2EB930B0223B6717000D856B /* LaunchScreen.storyboard */,
 				2EB930B3223B6717000D856B /* Info.plist */,
 				2EB930B4223B6717000D856B /* main.m */,
+				94D01451223CACB80087D960 /* RestorableImageView.h */,
+				94D01452223CACB80087D960 /* RestorableImageView.m */,
 			);
 			path = RestoreViewTransform;
 			sourceTree = "<group>";
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				2EB930AA223B6717000D856B /* ViewController.m in Sources */,
+				94D01453223CACB80087D960 /* RestorableImageView.m in Sources */,
 				2EB930B5223B6717000D856B /* main.m in Sources */,
 				2EB930A7223B6717000D856B /* AppDelegate.m in Sources */,
 			);
